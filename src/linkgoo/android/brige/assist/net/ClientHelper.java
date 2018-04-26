@@ -1,4 +1,4 @@
-package kaizone.android.b89.assist.net;
+package linkgoo.android.brige.assist.net;
 
 import java.io.InputStream;
 import java.util.HashMap;

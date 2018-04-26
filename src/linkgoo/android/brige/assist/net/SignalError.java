@@ -1,5 +1,5 @@
 
-package kaizone.android.b89.assist.net;
+package linkgoo.android.brige.assist.net;
 
 import android.app.Activity;
 
