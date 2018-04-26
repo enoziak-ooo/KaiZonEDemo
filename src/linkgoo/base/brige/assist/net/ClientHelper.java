@@ -1,4 +1,4 @@
-package linkgoo.android.brige.assist.net;
+package linkgoo.base.brige.assist.net;
 
 import java.io.InputStream;
 import java.util.HashMap;

@@ -1,8 +1,5 @@
 package com.example.kaizonedemo;
-
-import kaizone.android.b89.net.DataControl;
-import kaizone.android.b89.net.DataControl.IDataUpdateListener;
-import kaizone.android.b89.util.ImageFetcher;
+s
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;

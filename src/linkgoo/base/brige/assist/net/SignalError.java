@@ -1,5 +1,5 @@
 
-package linkgoo.android.brige.assist.net;
+package linkgoo.base.brige.assist.net;
 
 import android.app.Activity;
 
